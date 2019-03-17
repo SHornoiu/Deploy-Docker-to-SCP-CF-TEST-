@@ -1,4 +1,4 @@
-# docker-hello
+# deploy-docker-to-scp-cf
 
 "Hello World"! 
 
